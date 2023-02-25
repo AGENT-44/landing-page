@@ -232,7 +232,7 @@ const Navbar = () => {
               Get your team in sync, no matter your location. Streamline
               processes. create team rituals, and watch productivity soar.
             </p>
-            <button className="py-4 sm:mt-12 px-10 text-white text-xl font-bold bg-black rounded-2xl mt-10">
+            <button className="py-4 sm:mt-12 hover:bg-white hover:text-black hover:border px-10 text-white text-xl font-bold bg-black rounded-2xl mt-10">
               Learn more
             </button>
           </div>
